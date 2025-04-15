@@ -14,5 +14,5 @@ Hi! I'm Raisy Xu, a fintech analyst with experience in BNPL strategy, business a
 
 ## Contact
 - [GitHub](https://github.com/raisyxu)
-- [LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
-- Email: your@email.com
+- [LinkedIn]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/raisyxu/))
+- Email: raisy_xu@outlook.com
