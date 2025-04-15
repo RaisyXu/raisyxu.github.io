@@ -11,7 +11,7 @@ I'm a fintech professional with a strong foundation in **business analytics**, *
 ## 💼 Professional Highlights
 
 ### 💡 Chase Pay-in-Four (PI4)
-Led strategy and quantitative modeling for JPMC's Pay-in-Four product. This initiative improved customer affordability and contributed to inclusive access to credit.
+Led strategy and quantitative analytics for JPMC's Pay-in-Four product. This initiative improved customer affordability and contributed to inclusive access to credit.
 
 ### 📊 BNPL Market & Competitor Intelligence
 Designed competitive research frameworks analyzing Klarna, Affirm, and other U.S. BNPL players to refine product positioning and inform senior leadership decisions.
