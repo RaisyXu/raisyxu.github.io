@@ -33,6 +33,19 @@ Built performance monitoring dashboards to track product health and user behavio
 
 ---
 
+## 💬 What I'm Looking for Next
+
+I’m seeking impactful roles in **product analytics**, **fintech strategy**, or **digital transformation** where I can apply my expertise in:
+- Data pipeline development (SQL, Snowflake)
+- A/B testing and experimentation frameworks
+- Customer segmentation and funnel optimization
+- API performance analytics and KPI dashboarding
+
+I'm especially excited about joining cross-functional teams that prioritize data-informed product decisions and value experimentation, automation, and scalable growth strategies.
+
+If you're hiring or collaborating in this space, [let’s connect.](mailto:raisy@example.com)
+
+---
 ### 🗂 Explore More
 
 - [Projects](./projects.md)
