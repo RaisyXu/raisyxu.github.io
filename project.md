@@ -71,4 +71,4 @@ Delivered high-impact competitor research to support Chase's entry and scaling i
 
 ---
 
-Looking for more? [Let’s connect.](mailto:raisy@example.com)
+Looking for more? [Let’s connect.](mailto:raisy_xu@outlook.com)
