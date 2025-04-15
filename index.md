@@ -4,6 +4,7 @@ title: Raisy Xu
 ---
 
 # 👋 Hi, I'm Raisy Xu
+![Raisy Xu](./AvatarMaker.png)
 
 I'm a fintech professional with a strong foundation in **business analytics**, **quantitative strategy**, and **Buy Now, Pay Later (BNPL)** innovation. With a Master's in Business Analytics from Washington University in St. Louis and prior experience at **JPMorgan Chase**, I've led impactful work in digital finance and product development.
 
