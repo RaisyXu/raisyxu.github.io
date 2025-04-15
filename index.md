@@ -49,7 +49,7 @@ If you're hiring or collaborating in this space, [let’s connect.](mailto:raisy
 ### 🗂 Explore More
 
 - [Projects](./projects.html)
-- [Resume](./resume.md)
+- [About](./about.html)
 - [Contact](mailto:raisy_xu@outlook.com)
 
 ---
