@@ -28,7 +28,7 @@ Built performance monitoring dashboards to track product health and user behavio
 
 ## 🔗 Connect with Me
 - [GitHub](https://github.com/raisyxu)
-- [LinkedIn]((https://www.linkedin.com/in/raisyxu/))
+- [LinkedIn](https://www.linkedin.com/in/raisyxu/)
 - 📫 raisy_xu@outlook.com
 
 ---
@@ -43,7 +43,7 @@ I’m seeking impactful roles in **product analytics**, **fintech strategy**, or
 
 I'm especially excited about joining cross-functional teams that prioritize data-informed product decisions and value experimentation, automation, and scalable growth strategies.
 
-If you're hiring or collaborating in this space, [let’s connect.](mailto:raisy@example.com)
+If you're hiring or collaborating in this space, [let’s connect.](mailto:raisy_xu@outlook.com)
 
 ---
 ### 🗂 Explore More
