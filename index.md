@@ -48,7 +48,7 @@ If you're hiring or collaborating in this space, [let’s connect.](mailto:raisy
 ---
 ### 🗂 Explore More
 
-- [Projects](./projects.md)
+- [Projects](./projects.html)
 - [Resume](./resume.md)
 - [Contact](mailto:raisy_xu@outlook.com)
 
