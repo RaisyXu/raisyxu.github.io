@@ -28,7 +28,7 @@ Built performance monitoring dashboards to track product health and user behavio
 
 ## 🔗 Connect with Me
 - [GitHub](https://github.com/raisyxu)
-- [LinkedIn](https://www.linkedin.com/in/raisyxu/)
+- [LinkedIn](https://www.linkedin.com/in/raisyxu/){:target="_blank"}
 - 📫 raisy_xu@outlook.com
 
 ---
