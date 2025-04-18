@@ -70,5 +70,18 @@ Delivered high-impact competitor research to support Chase's entry and scaling i
 - Presented findings and competitive gaps to the BNPL product leadership team, which directly shaped Chase’s differentiated go-to-market approach.
 
 ---
+### 🛵 Predicting Delivery Time Using DoorDash Historical Data
 
+Built a machine learning model to predict **actual delivery time** for DoorDash orders using a dataset of historical deliveries across multiple U.S. cities.
+
+- Processed and engineered features from **80K+ delivery records**, including time, location, store, and order details
+- Created custom time-based features and handled noisy/missing timestamps using Python and pandas
+- Trained and tuned a **Random Forest Regressor** using `RandomizedSearchCV` to optimize delivery time predictions
+- Achieved **RMSE under 5 minutes** on validation data and identified top features: `market_id`, `created_at`, and `order_protocol`
+- Visualized feature importances and delivery time distributions to support operational improvements
+
+🔍 [Interactive Notebook (nbviewer)](https://nbviewer.org/github/raisyxu/jupyter-notebooks/blob/main/doordash_delivery_time.ipynb)  
+📂 [View on GitHub](https://github.com/raisyxu/jupyter-notebooks/blob/main/doordash_delivery_time.ipynb)
+
+---
 Looking for more? [Let’s connect.](mailto:raisy_xu@outlook.com)
