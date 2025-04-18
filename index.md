@@ -13,6 +13,14 @@ I'm actively seeking roles in **product analytics**, **digital strategy**, and *
 
 I'm a fintech professional with a strong foundation in **Data analytics**, **Product Analytics**, **quantitative strategy**, and **Buy Now, Pay Later (BNPL)** innovation. With a Master's in Business Analytics from Washington University in St. Louis and over 3 years of experience at **JPMorgan Chase**, I've led impactful work in digital finance and product development.
 
+## 🚀 Project Updates
+
+Here are my latest projects exploring data science, machine learning, and product analytics in fintech and delivery platforms:
+
+- **🛵 DoorDash Delivery Time Prediction**  
+  Built a regression model using 80K+ rows of historical delivery data to predict delivery durations. Achieved RMSE under 5 minutes.  
+  🔍 [View Notebook](https://nbviewer.org/github/RaisyXu/jupyter-notebooks/blob/main/doordash_delivery_time.ipynb) | 📂 [GitHub](https://github.com/RaisyXu/jupyter-notebooks/blob/main/doordash_delivery_time.ipynb)
+
 ## 💼 Professional Highlights
 
 ### 💡 Chase Pay-in-Four (PI4)
