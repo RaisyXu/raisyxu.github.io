@@ -80,7 +80,7 @@ Built a machine learning model to predict **actual delivery time** for DoorDash 
 - Achieved **RMSE under 5 minutes** on validation data and identified top features: `market_id`, `created_at`, and `order_protocol`
 - Visualized feature importances and delivery time distributions to support operational improvements
 
-🔍 [Interactive Notebook (nbviewer)](https://nbviewer.org/github/raisyxu/jupyter-notebooks/blob/main/doordash_delivery_time.ipynb)  
+🔍 [Interactive Notebook (nbviewer)](https://nbviewer.org/github/RaisyXu/jupyter-notebooks/blob/main/doordash_delivery_time.ipynb)  
 📂 [View on GitHub](https://github.com/raisyxu/jupyter-notebooks/blob/main/doordash_delivery_time.ipynb)
 
 ---
