@@ -25,6 +25,13 @@ Built a machine learning model to predict **actual delivery time** for DoorDash 
 
 ---
 
+### 🧠 AI-Driven Health Monitoring System
+- **Description**: Built an AI-powered health risk prediction and personalized advice system based on heart rate, activity level, and age using Random Forest Classifier and OpenAI GPT-3.5 API.
+- **Technologies**: Python, Scikit-learn, OpenAI API, Pandas, Machine Learning
+- **Repo**: [GitHub - Health Monitoring AI](https://github.com/RaisyXu/health-monitoring-ai)
+
+---
+
 ## 🧠 BNPL Behavioral Analytics & A/B Testing Optimization  
 **Company:** JPMorgan Chase  
 **Role:** Senior Data Analyst  
