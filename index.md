@@ -21,6 +21,10 @@ Here are my latest projects exploring data science, machine learning, and produc
   Built a regression model using 80K+ rows of historical delivery data to predict delivery durations. Achieved RMSE under 5 minutes.  
   🔍 [View Notebook](https://nbviewer.org/github/RaisyXu/jupyter-notebooks/blob/main/doordash_delivery_time.ipynb) | 📂 [GitHub](https://github.com/RaisyXu/jupyter-notebooks/blob/main/doordash_delivery_time.ipynb)
 
+
+- **[AI-Driven Health Monitoring System](https://github.com/RaisyXu/health-monitoring-ai)** (2024): Built a health risk prediction and personalized advice system powered by Random Forest Machine Learning and OpenAI GPT-3.5. 
+
+
 ## 💼 Professional Highlights
 
 ### 💡 Chase Pay-in-Four (PI4)
