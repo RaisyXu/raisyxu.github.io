@@ -17,6 +17,12 @@ I'm a fintech professional with a strong foundation in **Data analytics**, **Pro
 
 Here are my latest projects exploring data science, machine learning, and product analytics in fintech and delivery platforms:
 
+## 📢 Project Updates
+
+- **April 2025:** 📊 Published a full machine learning project predicting property listing interactions over 3 days and 7 days based on property features like rent, size, number of photos, and locality popularity. Achieved **R² = 0.995** with Random Forest, built a full evaluation dashboard, and deployed a simple Streamlit app for live predictions.  
+[View Project →](https://github.com/RaisyXu/Predicting-Property-Listing-Interactions)
+
+
 - **🛵 DoorDash Delivery Time Prediction**  
   Built a regression model using 80K+ rows of historical delivery data to predict delivery durations. Achieved RMSE under 5 minutes.  
   🔍 [View Notebook](https://nbviewer.org/github/RaisyXu/jupyter-notebooks/blob/main/doordash_delivery_time.ipynb) | 📂 [GitHub](https://github.com/RaisyXu/jupyter-notebooks/blob/main/doordash_delivery_time.ipynb)
