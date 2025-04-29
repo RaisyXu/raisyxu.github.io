@@ -15,7 +15,9 @@ Here are a few key projects showcasing my work across fintech strategy, product 
 
 - **Objective:** Built machine learning models to predict how many interactions (views, saves, inquiries) a property listing will receive over 3 days and 7 days, based on property features.
 - **Techniques Used:** Feature Engineering, Random Forest, LightGBM, Hyperparameter Tuning, Residual Analysis, SHAP Explainability, Streamlit App Deployment.
-- **Key Results:** Achieved **R**
+- **Key Results:** Achieved **R² = 0.995** for 7-day interaction prediction using Random Forest, with low MAE and RMSE.
+- **Highlights:** Developed a full model evaluation dashboard (Actual vs Predicted, Residual Distribution, Feature Importances) and deployed a Streamlit app for live prediction.
+- **GitHub Repository:** [View Project](https://github.com/RaisyXu/Predicting-Property-Listing-Interactions)
 
 ---
 
