@@ -9,6 +9,16 @@ Here are a few key projects showcasing my work across fintech strategy, product 
 
 
 ---
+
+
+### 📊 Predicting Property Listing Interactions with Machine Learning
+
+- **Objective:** Built machine learning models to predict how many interactions (views, saves, inquiries) a property listing will receive over 3 days and 7 days, based on property features.
+- **Techniques Used:** Feature Engineering, Random Forest, LightGBM, Hyperparameter Tuning, Residual Analysis, SHAP Explainability, Streamlit App Deployment.
+- **Key Results:** Achieved **R**
+
+---
+
 ### 🛵 Predicting Delivery Time Using DoorDash Historical Data
 
 Built a machine learning model to predict **actual delivery time** for DoorDash orders using a dataset of historical deliveries across multiple U.S. cities.
