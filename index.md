@@ -19,18 +19,16 @@ Here are my latest projects exploring data science, machine learning, and produc
 
 ## 📢 Project Updates
 
-- **✈️⚾ MLB Flight & Transportation Time Series Analysis (Sep'2025)**  
-  Conducted a **time series analysis** on MLB team travel schedules and jet fuel price data to uncover scheduling inefficiencies and cost implications.  
-  - Found that a **$0.50/gal fuel price increase** could raise league-wide travel costs by **~$12.3M annually**.  
-  - Identified **West Coast teams travel 21% more miles** than East Coast teams → higher exposure to price volatility.  
-  - Simulated scheduling optimizations showing potential **6.5% travel reduction**.  
-  - Built visuals of **fuel price trends, monthly flight frequency, and travel distance distribution**.  
-  > 💡 Designed this project to strengthen my **pricing analytics skillset**, linking cost forecasting to decision-making.  
-  📂 [View GitHub Project](https://github.com/RaisyXu/mlb_flight_analysis)  
+### ✈️⚾ MLB Flight & Transportation Time Series Analysis
 
-  ![Fuel Price Trend](https://github.com/RaisyXu/mlb_flight_analysis/blob/main/fuel_price_trend.png?raw=true)  
-  ![Flight Frequency](https://github.com/RaisyXu/mlb_flight_analysis/blob/main/flight_frequency.png?raw=true)  
-  ![Travel Distance Distribution](https://github.com/RaisyXu/mlb_flight_analysis/blob/main/travel_distance_distribution.png?raw=true)
+- **Objective:** Modeled MLB team travel schedules and jet fuel price data to explore trends, cost structures, and optimization opportunities.
+- **Extension:** Applied **XGBoost forecasting** to predict next-day fuel prices using lag and rolling features.  
+- **Result:** Achieved close alignment between actual vs predicted prices, validating machine learning’s applicability to time series.  
+
+![Fuel Price Forecast](https://github.com/RaisyXu/mlb_flight_analysis/blob/main/download.png?raw=true)
+
+📂 [View GitHub Project](https://github.com/RaisyXu/mlb_flight_analysis)
+
 
 ---
 
