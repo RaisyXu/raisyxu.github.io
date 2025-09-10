@@ -19,7 +19,7 @@ Here are my latest projects exploring data science, machine learning, and produc
 
 ## 📢 Project Updates
 
-- **✈️⚾ MLB Flight & Transportation Time Series Analysis (2025)**  
+- **✈️⚾ MLB Flight & Transportation Time Series Analysis (Sep'2025)**  
   Conducted a **time series analysis** on MLB team travel schedules and jet fuel price data to uncover scheduling inefficiencies and cost implications.  
   - Found that a **$0.50/gal fuel price increase** could raise league-wide travel costs by **~$12.3M annually**.  
   - Identified **West Coast teams travel 21% more miles** than East Coast teams → higher exposure to price volatility.  
