@@ -8,7 +8,7 @@ title: Raisy Xu
 I'm actively seeking roles in **product analytics**, **digital strategy**, and **data-driven product development** where I can apply my strengths in experimentation design, KPI optimization, and user journey insights. My goal is to help teams make smarter product decisions through actionable metrics and cross-functional collaboration.
 
 <p align="center">
-  <img src="AvatarMaker2.png" alt="Raisy Xu avatar" width="160" style="border-radius: 50%; box-shadow: 0 0 8px rgba(0,0,0,0.15);" />
+  <img src="image_U3viS5hv_1757548368373_raw.jpg" alt="Raisy Xu avatar" width="160" style="border-radius: 50%; box-shadow: 0 0 8px rgba(0,0,0,0.15);" />
 </p>
 
 I'm a fintech professional with a strong foundation in **Data analytics**, **Product Analytics**, **quantitative strategy**, and **Buy Now, Pay Later (BNPL)** innovation. With a Master's in Business Analytics from Washington University in St. Louis and over 3 years of experience at **JPMorgan Chase**, I've led impactful work in digital finance and product development.
