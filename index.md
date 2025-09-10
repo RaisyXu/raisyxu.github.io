@@ -19,6 +19,21 @@ Here are my latest projects exploring data science, machine learning, and produc
 
 ## 📢 Project Updates
 
+- **✈️⚾ MLB Flight & Transportation Time Series Analysis (2025)**  
+  Conducted a **time series analysis** on MLB team travel schedules and jet fuel price data to uncover scheduling inefficiencies and cost implications.  
+  - Found that a **$0.50/gal fuel price increase** could raise league-wide travel costs by **~$12.3M annually**.  
+  - Identified **West Coast teams travel 21% more miles** than East Coast teams → higher exposure to price volatility.  
+  - Simulated scheduling optimizations showing potential **6.5% travel reduction**.  
+  - Built visuals of **fuel price trends, monthly flight frequency, and travel distance distribution**.  
+  > 💡 Designed this project to strengthen my **pricing analytics skillset**, linking cost forecasting to decision-making.  
+  📂 [View GitHub Project](https://github.com/RaisyXu/mlb_flight_analysis)  
+
+  ![Fuel Price Trend](https://github.com/RaisyXu/mlb_flight_analysis/blob/main/fuel_price_trend.png?raw=true)  
+  ![Flight Frequency](https://github.com/RaisyXu/mlb_flight_analysis/blob/main/flight_frequency.png?raw=true)  
+  ![Travel Distance Distribution](https://github.com/RaisyXu/mlb_flight_analysis/blob/main/travel_distance_distribution.png?raw=true)
+
+---
+
 - **April 2025:** 📊 Published a full machine learning project predicting property listing interactions over 3 days and 7 days based on property features like rent, size, number of photos, and locality popularity. Achieved **R² = 0.995** with Random Forest, built a full evaluation dashboard, and deployed a simple Streamlit app for live predictions.  
 [View Project →](https://github.com/RaisyXu/Predicting-Property-Listing-Interactions)
 
