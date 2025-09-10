@@ -7,7 +7,26 @@ title: Projects
 
 Here are a few key projects showcasing my work across fintech strategy, product analytics, and digital optimization:
 
+---
 
+### ✈️⚾ MLB Flight & Transportation Time Series Analysis
+
+- **Objective:** Analyzed Major League Baseball (MLB) team travel schedules and integrated jet fuel price data to explore trends, cost structures, and scheduling optimizations.  
+- **Techniques Used:** Time Series Analysis, Scenario Modeling, Pandas, Matplotlib, Seaborn  
+- **Key Results:**  
+  - Found that a **$0.50/gal fuel price increase** could raise league-wide travel costs by **~$12.3M annually**.  
+  - Identified that **West Coast teams travel 21% more miles** than East Coast teams, leading to uneven cost exposures.  
+  - Simulation showed **optimizing double-headers** could cut travel by **6.5%**.  
+- **Highlights:**  
+  - Generated visual insights on **fuel price trends**, **monthly flight frequency**, and **travel distance distribution**.  
+  - Connected time series volatility to **pricing and risk management strategies**, aligning with my preparation for pricing-related roles.  
+- **GitHub Repository:** [View Project](https://github.com/RaisyXu/mlb_flight_analysis)
+
+![Fuel Price Trend](https://github.com/RaisyXu/mlb_flight_analysis/blob/main/fuel_price_trend.png?raw=true)
+![Flight Frequency](https://github.com/RaisyXu/mlb_flight_analysis/blob/main/flight_frequency.png?raw=true)
+![Travel Distance Distribution](https://github.com/RaisyXu/mlb_flight_analysis/blob/main/travel_distance_distribution.png?raw=true)
+
+---
 ---
 
 
