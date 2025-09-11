@@ -19,7 +19,7 @@ Here are my latest projects exploring data science, machine learning, and produc
 
 ## 📢 Project Updates
 
-### ✈️⚾ MLB Flight & Transportation Time Series Analysis
+### ✈️⚾ MLB Flight & Transportation Time Series Analysis (Updated 09/2025)
 
 - **Objective:** Modeled MLB team travel schedules and jet fuel price data to explore trends, cost structures, and optimization opportunities.
 - **Extension:** Applied **XGBoost forecasting** to predict next-day fuel prices using lag and rolling features.  
