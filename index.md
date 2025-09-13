@@ -13,11 +13,22 @@ I'm actively seeking roles in **product analytics**, **digital strategy**, and *
 
 I'm a fintech professional with a strong foundation in **Data analytics**, **Product Analytics**, **quantitative strategy**, and **Buy Now, Pay Later (BNPL)** innovation. With a Master's in Business Analytics from Washington University in St. Louis and over 3 years of experience at **JPMorgan Chase**, I've led impactful work in digital finance and product development.
 
-## 🚀 Project Updates
+
+## 📢 Project Updates
 
 Here are my latest projects exploring data science, machine learning, and product analytics in fintech and delivery platforms:
 
-## 📢 Project Updates
+### 🗂️❄️📈 dbt + Snowflake + Airflow ELT Pipeline (Added 09/2025)
+
+- 🎯 **Objective:** Built an **end-to-end ELT pipeline** to demonstrate modern data stack skills with **dbt**, **Snowflake**, and **Airflow (Cosmos)**.  
+- 📊 **Result:** Modeled raw TPCH data into **business-ready fact tables and views** (`FCT_ORDERS`, `INT_ORDER_ITEMS_SUMMARY`) and automated refreshes through Airflow DAGs.  
+- 🔍 **Highlights:** Enforced data quality with dbt schema + custom tests; showcased orchestration in a **production-like Snowflake environment**.  
+
+![Airflow DAG](https://github.com/RaisyXu/dbt-snowflake-airflow-demo/blob/main/airflow_dag.png?raw=true)
+
+📂 [View GitHub Project](https://github.com/RaisyXu/dbt-snowflake-airflow-demo)
+
+
 
 ### ✈️⚾ MLB Flight & Transportation Time Series Analysis (Updated 09/2025)
 
