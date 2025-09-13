@@ -9,6 +9,25 @@ Here are a few key projects showcasing my work across fintech strategy, product 
 
 ---
 
+### 📊 dbt + Snowflake + Airflow (Cosmos) ELT Pipeline
+
+- **Objective:** Built an **end-to-end ELT pipeline** to demonstrate modern data stack skills with dbt, Snowflake, and Airflow. The pipeline seeds raw data, transforms it into staging and marts models, validates data quality, and schedules refreshes with Airflow (via Astronomer Cosmos).  
+- **Techniques Used:** dbt modeling (staging → marts → business views), schema + custom tests, Airflow DAG orchestration, Snowflake warehouse management.  
+- **Key Results:**  
+  - Modeled raw TPCH-style data into **business-ready fact tables and views** (`FCT_ORDERS`, `INT_ORDER_ITEMS_SUMMARY`, `STG_TPCH_ORDERS`).  
+  - Automated pipeline scheduling in **Airflow** with Cosmos-generated DAGs.  
+  - Enforced **data quality checks** through dbt tests (`not_null`, `unique`, discount validations).  
+- **Highlights:**  
+  - Dedicated Snowflake **database, schema, and role** used to simulate production-grade environment.  
+  - Visualized **dbt lineage graph**, **Airflow DAG success**, and **Snowflake schema** as proof of orchestration and modeling.  
+  - Showcases ability to design and run **full-stack data workflows** with modern ELT tools.  
+- **GitHub Repository:** [View Project](https://github.com/RaisyXu/dbt-snowflake-airflow-demo)
+
+![Airflow DAG](https://github.com/RaisyXu/dbt-snowflake-airflow-demo/blob/main/airflow_dag.png?raw=true)
+
+
+---
+
 ### ✈️⚾ MLB Flight & Transportation Time Series Analysis
 
 - **Objective:** Analyzed Major League Baseball (MLB) team travel schedules and integrated jet fuel price data to explore trends, cost structures, and scheduling optimizations.  
